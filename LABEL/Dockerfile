@@ -1,0 +1,4 @@
+From almalinux
+LABEL AUTHOR="MEGHANA" \
+      COURSE="DOCKER" \
+      DURATION="25 HRS"

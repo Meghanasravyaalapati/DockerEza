@@ -1,0 +1,1 @@
+Runs instructions given when the image is running

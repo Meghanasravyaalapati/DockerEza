@@ -1,0 +1,4 @@
+From almalinux
+ENV AUTHOR="MEGHANA"\
+    DURATION="25HR"\
+    COURSE="DEVOPS"
