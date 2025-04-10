@@ -1,2 +1,2 @@
 From almalinux
-CMD ["Ping","-c5","google.com"]
+ENTRYPOINT ["Ping","-c5","google.com"]
